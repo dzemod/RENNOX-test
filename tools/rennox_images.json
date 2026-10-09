@@ -1,0 +1,80 @@
+{
+  "outDir": ".tmp/images_raw",
+  "images": [
+    {
+      "name": "hero-craftsman",
+      "aspect": "3:4",
+      "prompt": "Waist-up portrait of a confident renovation foreman named Mark, mid 30s, short brown hair and neat trimmed beard, glossy red hard hat, red canvas work jacket over a dark navy t-shirt, arms crossed, slight friendly smile, looking at camera, three-quarter view. Plain deep charcoal studio backdrop (#211d1d) with a soft dark-red glow behind the shoulders, nothing else in frame. Dramatic soft key light from the left, subtle red rim light on the right edge. Editorial portrait photography, 85mm lens, shallow depth of field"
+    },
+    {
+      "name": "hero-chip",
+      "aspect": "16:9",
+      "prompt": "Two renovation workers in white t-shirts and blue work trousers kneeling on a freshly laid light oak floor inside a bright, empty modern living room, one applying adhesive from a white bucket, large windows with daylight, wide angle. Warm soft natural light from the windows on the left"
+    },
+    {
+      "name": "avatar-1",
+      "aspect": "1:1",
+      "prompt": "Head-and-shoulders portrait of a smiling homeowner named Daniel, early 40s, short light brown hair, light grey crew-neck sweater, standing in a bright newly renovated living room softly blurred behind him. Warm soft natural window light, editorial portrait, shallow depth of field"
+    },
+    {
+      "name": "avatar-2",
+      "aspect": "1:1",
+      "prompt": "Head-and-shoulders portrait of a smiling homeowner named Mei, early 30s, East Asian, shoulder-length black hair, cream knit cardigan, standing in a bright modern kitchen softly blurred behind her. Warm soft natural window light, editorial portrait, shallow depth of field"
+    },
+    {
+      "name": "about-ceiling",
+      "aspect": "4:3",
+      "prompt": "Renovation worker in a light grey sweatshirt and white painter's bib overalls installing a white drywall ceiling panel on a metal frame in a bright interior under renovation, arms raised, three-quarter view from below. Clean white walls, a doorway with warm light on the right. Soft overhead diffused daylight, no harsh shadows"
+    },
+    {
+      "name": "about-flooring",
+      "aspect": "3:4",
+      "prompt": "Close-up top-down view of a craftsman's hands installing dark walnut hardwood floor planks over a light blue underlay, a hammer and a tapping block in hand, planks clicking into place. Warm soft natural light from a window on the left, shallow depth of field"
+    },
+    {
+      "name": "service-full-home",
+      "aspect": "4:3",
+      "prompt": "Interior of a fully renovated open-plan family home: light oak herringbone floor, warm white walls, a floating oak staircase with glass balustrade, a linen sofa and a black steel-framed glass partition into a dining area. Nobody present. Wide angle, eye level. Warm soft natural light, golden hour, architectural interior photography"
+    },
+    {
+      "name": "service-kitchen",
+      "aspect": "4:3",
+      "prompt": "Newly remodeled modern kitchen: matte charcoal flat-panel cabinets, warm oak open shelves, white zellige tile backsplash, a long island with white Calacatta quartz waterfall countertop, three black pendant lamps, matte black faucet, built-in stainless oven. Nobody present. Three-quarter view. Warm soft natural light from a window on the left, architectural interior photography"
+    },
+    {
+      "name": "service-bathroom",
+      "aspect": "4:3",
+      "prompt": "Renovated spa-style bathroom: large-format light grey porcelain tiles, a freestanding white stone bathtub, frameless walk-in glass shower with matte black fixtures, floating walnut vanity with double white vessel sinks, round backlit mirror, warm LED strip under the vanity, a small olive tree in a pot. Nobody present. Soft overhead diffused light, architectural interior photography"
+    },
+    {
+      "name": "service-living",
+      "aspect": "4:3",
+      "prompt": "Modern living room makeover: warm greige walls, a fluted oak media wall with a built-in fireplace, a low boucle sofa in cream, a travertine coffee table, wide-plank oak floor, large windows with sheer linen curtains, a single arched floor lamp. Nobody present. Wide angle. Warm ambient light, golden hour, architectural interior photography"
+    },
+    {
+      "name": "service-bedroom",
+      "aspect": "4:3",
+      "prompt": "Renovated calm master bedroom: deep terracotta-red accent wall with an upholstered headboard, crisp white linen bedding, walnut bedside tables with small brass lamps, built-in floor-to-ceiling wardrobe with oak fronts, light oak floor, soft wool rug. Nobody present. Eye-level three-quarter view. Warm soft natural light from a window on the left, architectural interior photography"
+    },
+    {
+      "name": "cta-tiling",
+      "aspect": "4:3",
+      "prompt": "Bearded tiler in a tan baseball cap, safety glasses, white t-shirt and grey bib apron applying tile adhesive with a notched trowel to a bathroom wall, a green laser level line projected across the wall, large white porcelain tiles already installed below. Three-quarter view. Soft overhead diffused light"
+    },
+    {
+      "name": "cta-consult",
+      "aspect": "16:9",
+      "prompt": "Renovation project manager in a red RENNOX polo shirt reviewing a printed floor plan and white oak, marble and tile samples with a smiling couple at a kitchen island inside a bright home, laptop showing a 3D kitchen rendering. Three-quarter view, candid moment. Warm soft natural light from a window on the left, shallow depth of field"
+    },
+    {
+      "name": "process-quality",
+      "aspect": "3:4",
+      "prompt": "Renovation foreman in a red hard hat and charcoal work jacket checking a newly installed kitchen cabinet with a yellow spirit level, tablet with a checklist in his other hand, bright finished modern kitchen around him. Three-quarter view. Warm soft natural light, shallow depth of field"
+    },
+    {
+      "name": "footer-work",
+      "aspect": "16:9",
+      "prompt": "Low-angle view of a worker in blue overalls, white t-shirt, safety glasses and grey gloves carrying large white wall tiles across a bright, empty modern kitchen under renovation, a second worker in the background spreading adhesive, big window with daylight. Soft overhead diffused light"
+    }
+  ]
+}
